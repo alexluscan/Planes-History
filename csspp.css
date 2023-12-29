@@ -1,0 +1,55 @@
+video {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+  .video-wrapper {
+    width: 1900px;
+    height: 600px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+  }
+
+  .text{
+    background: linear-gradient(to top, #000066 -92%, #ffffff 100%);
+    margin-right: 2%;
+  }
+  .textnivele{
+
+    background-color: #f0f0f0;
+  }
+  .postere{
+    margin-top: 3%;
+    margin-bottom: 2%;
+    width: 400px;
+    height:600px;
+  }
+  p{
+    margin-left: 2%;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  body{
+    background-color: white;
+  }
+  .header{
+    position: relative;
+    color: white;
+    text-shadow: 1px 1px 8px rgba(0,0,0,0.6);
+  }
+  .imgcarusel{
+    height: 500px;
+    width: 200px;
+  }
+  
